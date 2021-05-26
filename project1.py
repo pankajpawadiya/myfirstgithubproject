@@ -1,3 +1,3 @@
 print ("Hello World")
 
-print ("Good mornin")
+print ("Good morning")
